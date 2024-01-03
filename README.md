@@ -1,2 +1,3 @@
-# golang-beecrowd-solutions
-Golang Beecrowd Solutions
+# Golang Beecrowd Solutions
+
+Beecrowd solutions in Golang
